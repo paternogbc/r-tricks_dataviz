@@ -1,0 +1,66 @@
+---
+title: "Tricks for data vizualization in R"
+author: "Gustavo Paterno"
+date: "`r Sys.Date()`"
+output:
+  rmdformats::readthedown:
+    highlight: kate
+---
+
+
+```{r setup, echo=FALSE, cache=FALSE}
+library(knitr)
+library(rmdformats)
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+	             cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+This repository is a place to store my list of nice __tricks__ and __useful resources__ for __data vizualition__ in R. I must say that this list is highly biased towards the `ggplot` and `tidyverse` solutions. 
+
+## Main packages
+
+* [__ggplot2__](https://ggplot2.tidyverse.org/): Elegant Graphics for Data Analysis.  
+* [__cowplot__](https://wilkelab.org/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
+
+## Color
+
+### Packages
+
+* [__RColorBrewer__](https://cran.r-project.org/web/packages/RColorBrewer/index.html): Provides color schemes for maps (and other graphics) designed by Cynthia Brewer as described at http://colorbrewer2.org.
+
+* [__viridis__](https://github.com/sjmgarnier/viridis): Implementation of the Matplolib 'viridis' color map in R.
+
+* [__cptcity__](https://ibarraespinosa.github.io/cptcity/index.html): Amazing set of 7140 different colour gradients from [cpt-city](http://soliton.vm.bytemark.co.uk/pub/cpt-city/index.html).
+
+* [__colorblindr__](https://github.com/clauswilke/colorblindr): Simulate colorblindness in production-ready R figures.
+
+* [__paletter__](https://github.com/AndreaCirilloAC/paletter): n R package that is able to draw an optimised palette from a custom image
+
+### Online resources
+
+* [__colorbrewer2__](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3): Great online tool to explore different types of color schemes. Special enphasis for cartography and maps.  
+
+* [__Data color Picker__](https://learnui.design/tools/data-color-picker.html#palette): Great online tool to generate your own color schemes.  
+
+
+## Books
+
+## Tutorials
+
+## Peopls
+
+
+***
+
+Please note that the 'r-tricks_dataviz' project is released with a
+[Contributor Code of Conduct](CODE_OF_CONDUCT.md).
+By contributing to this project, you agree to abide by its terms.
