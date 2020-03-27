@@ -1,6 +1,8 @@
 # r-tricks_dataviz
+
 A list of usefull links and resources for data vizualiation in R
 
+Check the list [here](https://paternogbc.github.io/r-tricks_dataviz/).
 
 ***
 

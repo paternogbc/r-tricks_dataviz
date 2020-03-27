@@ -51,12 +51,13 @@ This repository is a place to store my list of nice __tricks__ and __useful reso
 
 * [__Data color Picker__](https://learnui.design/tools/data-color-picker.html#palette): Great online tool to generate your own color schemes.  
 
+## Learning
 
-## Books
+### Books
 
-## Tutorials
+### Tutorials
 
-## Peopls
+## People
 
 
 ***
