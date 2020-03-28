@@ -1,4 +1,4 @@
-# r-tricks_dataviz
+# Tricks for data vizualization in R
 
 A list of usefull links and resources for data vizualiation in R
 
