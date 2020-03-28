@@ -1,5 +1,5 @@
 ---
-title: "Tricks for data vizualization in R"
+title: "Tricks for data visualization in R"
 author: "Gustavo Paterno"
 date: "`r Sys.Date()`"
 output:
@@ -24,7 +24,7 @@ opts_knit$set(width=75)
 ```
 
 
-This repository is a place to store my list of nice __tricks__ and __useful resources__ for __data vizualization__ in R. I must say that this list is highly biased towards the `ggplot` and `tidyverse` solutions. 
+This repository is a place to store my list of nice __tricks__ and __useful resources__ for __data visualization__ in R. I must say that this list is highly biased towards the `ggplot` and `tidyverse` solutions. 
 
 ## Main packages
 
@@ -67,10 +67,12 @@ This repository is a place to store my list of nice __tricks__ and __useful reso
 
 ## People
 
+*** 
 
-***
+## Contribute
 
-Please note that the 'r-tricks_data-viz' project is released with a
-[Contributor Code of Conduct](CODE_OF_CONDUCT.md).
-By contributing to this project, you agree to abide by its terms.
+If you have nice links, tips and resources to add to this list, please edit the [source code](https://github.com/paternogbc/r-tricks_dataviz/blob/master/docs/index.Rmd) directly and open a pull request. 
+
+
+> Please note that the 'r-tricks_data-viz' project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By contributing to this project, you agree to abide by its terms.
 
