@@ -24,7 +24,7 @@ opts_knit$set(width=75)
 ```
 
 
-This repository is a place to store my list of nice __tricks__ and __useful resources__ for __data vizualition__ in R. I must say that this list is highly biased towards the `ggplot` and `tidyverse` solutions. 
+This repository is a place to store my list of nice __tricks__ and __useful resources__ for __data vizualization__ in R. I must say that this list is highly biased towards the `ggplot` and `tidyverse` solutions. 
 
 ## Main packages
 
@@ -47,13 +47,21 @@ This repository is a place to store my list of nice __tricks__ and __useful reso
 
 ### Online resources
 
-* [__colorbrewer2__](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3): Great online tool to explore different types of color schemes. Special enphasis for cartography and maps.  
+* [__colorbrewer2__](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3): Great online tool to explore different types of color schemes. Special emphasis for cartography and maps.  
 
 * [__Data color Picker__](https://learnui.design/tools/data-color-picker.html#palette): Great online tool to generate your own color schemes.  
 
 ## Learning
 
 ### Books
+
+* [__Fundamentals of Data Visualization__](https://serialmentor.com/dataviz/): Amazing book with all you need to get started with making great plots in R. 
+
+* [_R Graphics Cookbook_](http://users.metu.edu.tr/ozancan/R%20Graphics%20Cookbook.pdf): A very comprehensive book covering most important graphs and very details about how to change every parameter of your `ggplot2` figures. 
+
+* [__ggplot2: Elegant Graphics for Data Analysis__](https://ggplot2-book.org/): Hadley Wickham book describing `ggplot2` in great depth.
+
+* [__R for Data Science__](https://r4ds.had.co.nz/): Great introduction to the `tidyverse` and R (small chapter about dataviz).
 
 ### Tutorials
 
@@ -62,7 +70,7 @@ This repository is a place to store my list of nice __tricks__ and __useful reso
 
 ***
 
-Please note that the 'r-tricks_dataviz' project is released with a
+Please note that the 'r-tricks_data-viz' project is released with a
 [Contributor Code of Conduct](CODE_OF_CONDUCT.md).
 By contributing to this project, you agree to abide by its terms.
 
