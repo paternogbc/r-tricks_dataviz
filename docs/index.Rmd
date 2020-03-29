@@ -3,7 +3,7 @@ title: "Tricks for data visualization in R"
 author: "Gustavo Paterno"
 date: "`r Sys.Date()`"
 output:
-  rmdformats::readthedown:
+  rmdformats::html_clean:
     highlight: kate
 ---
 
@@ -33,8 +33,6 @@ This repository is a place to store my list of nice __tricks__ and __useful reso
 
 ## Color
 
-### Packages
-
 * [__RColorBrewer__](https://cran.r-project.org/web/packages/RColorBrewer/index.html): Provides color schemes for maps (and other graphics) designed by Cynthia Brewer as described at http://colorbrewer2.org.
 
 * [__viridis__](https://github.com/sjmgarnier/viridis): Implementation of the Matplolib 'viridis' color map in R.
@@ -45,15 +43,15 @@ This repository is a place to store my list of nice __tricks__ and __useful reso
 
 * [__paletter__](https://github.com/AndreaCirilloAC/paletter): n R package that is able to draw an optimised palette from a custom image
 
-### Online resources
+## Online resources
+
+* [__The R Graph Galery__](https://www.r-graph-gallery.com/): A great collection of charts made with the R programming language. 
 
 * [__colorbrewer2__](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3): Great online tool to explore different types of color schemes. Special emphasis for cartography and maps.  
 
 * [__Data color Picker__](https://learnui.design/tools/data-color-picker.html#palette): Great online tool to generate your own color schemes.  
 
-## Learning
-
-### Books
+## Books
 
 * [__Fundamentals of Data Visualization__](https://serialmentor.com/dataviz/): Amazing book with all you need to get started with making great plots in R. 
 
@@ -63,7 +61,7 @@ This repository is a place to store my list of nice __tricks__ and __useful reso
 
 * [__R for Data Science__](https://r4ds.had.co.nz/): Great introduction to the `tidyverse` and R (small chapter about dataviz).
 
-### Tutorials
+## Tutorials
 
 ## People
 
